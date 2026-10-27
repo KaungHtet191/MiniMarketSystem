@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Appliance", "Home_Appliance\Home_Appliance.csproj", "{66522671-17DC-435E-81B4-1431E5599CD9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "minimartSetup", "minimartSetup\minimartSetup.vdproj", "{917BB5F6-DD95-405F-9F90-D1EF088E7BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66522671-17DC-435E-81B4-1431E5599CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66522671-17DC-435E-81B4-1431E5599CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66522671-17DC-435E-81B4-1431E5599CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66522671-17DC-435E-81B4-1431E5599CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917BB5F6-DD95-405F-9F90-D1EF088E7BF7}.Debug|Any CPU.ActiveCfg = Debug
+		{917BB5F6-DD95-405F-9F90-D1EF088E7BF7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096CEF7C-5921-4812-A8CD-84664E9C8E3A}
+	EndGlobalSection
+EndGlobal

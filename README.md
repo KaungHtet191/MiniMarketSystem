@@ -6,8 +6,8 @@ Technologies
 
 - C#
 - .NET Framework
-- Windows Forms (WinForms), if applicable
-- SQL Server, if applicable
+- Windows Forms (WinForms)
+- SQL Server
 
 Features
 
@@ -20,13 +20,13 @@ Requirements
 
 - Visual Studio
 - The appropriate .NET Framework Developer Pack
-- SQL Server, if required by the project
+- SQL Server
 
 How to Run
 
 1. Clone or download this repository.
 2. Open "MiniMarketSystem.sln" in Visual Studio.
-3. Configure the database connection if required.
+3. Configure the database connection
 4. Build and run the project.
 
 Author
